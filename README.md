@@ -1,9 +1,6 @@
 # estacionamento
 v1.2.0
 
--SISTEMA GERENCIAMENTO 
--SISTEMA COM WEBSITE DA EMPRESA
--SISTEMA PARA EXECUTAR NO WINDOWS
 
 ![Painel](https://up117br.screenrec.com/images/f_fFAbq7UrXJNpdS6ZglkBaGHm8w925PT0.png)
 
