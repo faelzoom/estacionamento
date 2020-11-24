@@ -1,0 +1,11 @@
+login - adm
+senha - adm
+Administrador
+
+login - func
+senha - func
+Funcionario
+
+login - desa
+senha - desa
+Desativado

@@ -1,0 +1,32 @@
+
+
+                 ESTABELECIMENTO          
+-              ECLEAN CODEF              -
+
+          CNPJ  : 00000000000000
+          RAZAO SOCIAL  : CLEAN CODE
+          IE : 00000000000
+          EMAIL  : CLEANCODE@SENAC.COM.BR
+          TELEFONE  : 1900000000
+  ----------------------------------------------
+     Placa Veiculo  : ABC-1020
+     Modelo Veiculo : 200
+     Data : 13-12-2019
+     Hora Entrada : 15:55:08
+     Hora Saida : 15:55:19
+     Permanencia : 0:0
+     Total : R$3,00
+     Recebido : R$3,00
+     Troco : R$0,00
+  ----------------------------------------------
+     Rua: SENAC N: 55
+     Bairro: CENTRO  Cep: 13840000
+     Cidade: MOGI GUACU UF: SP
+
+
+
+  -------------Obrigado e volte sempre------------
+
+
+
+

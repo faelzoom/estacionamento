@@ -1,0 +1,71 @@
+#qrcode{
+    margin: 10px;
+}
+
+#recebimento{
+    margin: 5px;
+}
+ 
+  header{
+    height: 220px;
+    background: 
+        linear-gradient(
+            #cce5ffe6,
+            rgba(124, 212, 9, 0.45)
+        );
+    background-size: cover;
+    background-image: center;
+    text-align: center;
+    margin: 25px 20px 25px 20px;
+    padding: 0px;
+    border-radius: 15px;
+}
+header h2   {
+    line-height: 200px;
+    color: #fff;
+    font-size: 5em;
+    margin: auto;
+    
+}
+header h5{
+    margin-top: -150px;
+    margin-left: 750px;
+    color: #fff;
+}
+
+.logo{
+    width: 300px;
+}
+.txt{
+	height: 35px;
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;
+}
+
+.txt:hover{
+	background-color: #CCC;
+}
+
+#cad_table{
+	height: 250px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 200px;
+}
+
+
+#login_table{
+	height: 200px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 250px;
+}
+
+#botaoSair {
+    margin-top: 40px;
+}

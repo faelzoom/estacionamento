@@ -1,0 +1,38 @@
+[25-Nov-2019 13:39:00 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:39:00 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:39:23 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:39:23 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:44:04 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:44:04 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:48:41 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[25-Nov-2019 13:48:41 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[26-Nov-2019 14:18:54 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[26-Nov-2019 14:18:54 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[27-Nov-2019 12:24:25 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[27-Nov-2019 12:24:25 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[01-Dec-2019 19:01:10 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[01-Dec-2019 19:01:10 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[02-Dec-2019 11:04:48 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[02-Dec-2019 11:04:48 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[02-Dec-2019 13:06:18 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[02-Dec-2019 13:06:18 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 2
+[02-Dec-2019 13:06:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/iptvmo85/public_html/estacionamento/app/conexao.php on line 3
+[02-Dec-2019 13:21:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 62
+[02-Dec-2019 13:21:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 62
+[02-Dec-2019 13:25:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 62
+[02-Dec-2019 13:26:31 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 54
+[02-Dec-2019 13:26:48 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 54
+[02-Dec-2019 13:26:53 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 54
+[02-Dec-2019 13:26:54 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 54
+[02-Dec-2019 13:26:55 UTC] PHP Parse error:  syntax error, unexpected '123' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 54
+[03-Dec-2019 12:28:42 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/iptvmo85/public_html/estacionamento/app/conexao.php on line 3
+[03-Dec-2019 13:11:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 57
+[03-Dec-2019 13:11:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 57
+[03-Dec-2019 13:14:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 57
+[03-Dec-2019 13:14:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 57
+[03-Dec-2019 13:14:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 57
+[03-Dec-2019 13:22:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 70
+[03-Dec-2019 13:22:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 70
+[03-Dec-2019 13:33:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 83
+[03-Dec-2019 13:33:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 83
+[03-Dec-2019 13:36:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/iptvmo85/public_html/estacionamento/app/consultar.php on line 84
