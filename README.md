@@ -8,7 +8,4 @@ v1.2.0
 ![Saida](https://up117br.screenrec.com/images/f_RcLuaxz8osQZ3neYDVEmdb5rXUgIwOTi.png)
 
 
-Para exercutar o programa na sua maquina localhost com xamp
-Basta abrir o banco de dados com nome "estacionamento"
-
-O sistema possue um aplicativo e qual executavel para ser instalar via pc(C#)
+Para exercutar o programa na sua maquina localhost com xamp, basta abrir o banco de dados com nome "estacionamento"
